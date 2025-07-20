@@ -1,1 +1,2 @@
-# week 2 project
+#!/usr/bin/env bash
+Week 15: Processes and Signals
